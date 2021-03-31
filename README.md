@@ -1,17 +1,9 @@
-<h1 align="center">Hi 👋, I'm Shawn Kristek a Full-Stack Engineer.</h1>
-<h3 align="center">I help entrepreneurs modernize their web technologies.</h3>
+<h1 align="center">Hi 👋, I'm Shawn Kristek a Full-Stack Software Engineer.</h1>
+<h3 align="center">I help small business entrepreneurs modernize their web technologies.</h3>
 
-- 🔭 I’m currently working on [project](url)
-
-- 🌱 I’m currently learning **the MERN stack. MongoDB Express React Node**
-
-- 👯 I’m looking to collaborate on [Mojito](shawnkristek.com/mojito)
-
-- 🤝 I’m looking for help with [project](url)
+- 🌱 I’m currently perfecting **my Python Flask skills**
 
 - 👨‍💻 All of my projects are available at [shawnkristek.com](shawnkristek.com)
-
-- 📝 I regularly write blog posts on [shawnkristek.com/blog](shawnkristek.com/blog)
 
 - 📫 How to reach me **shawn@shawnkristek.com**
 
