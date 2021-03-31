@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **shawn@shawnkristek.com**
 
-- 📄 Download my resume here [shawnkristek.com/resume](shawnkristek.com/resume)
-
 - ⚡ Fun fact **I've biked 150mi three times.**
 
 <h3 align="left">Connect with me:</h3>
