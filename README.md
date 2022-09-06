@@ -2,6 +2,4 @@
 
 - My portfolio and resume are hosted here: **[shawnkristek.com](shawnkristek.com)**
 
-- How to reach me **shawn@shawnkristek.com**
-
 - Connect with me on **[LinkedIn](https://www.linkedin.com/in/shawnkristek)**
