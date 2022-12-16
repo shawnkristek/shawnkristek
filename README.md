@@ -20,8 +20,10 @@
 
 <br/>
 
-### Currently seeking new opportunites. 
+### <u>Currently seeking new opportunites.</u>
 I would like to continue improving with my daily tools listed below. And I am also looking to grow my skillsets to be a more balanced Full Stack Engineer. I've enjoyed working with both JavaScript and Python backends.
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shawnkristek) 
 <!-- [![portfolio](https://img.shields.io/badge/My%20Portfolio-ShawnKristek.com-green)](http://shawnkristek.com) -->
