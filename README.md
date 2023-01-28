@@ -8,8 +8,8 @@ What does that mean? you ask. Well, I am working with an early stage business th
 - wowing the stakeholders by bringing the project to life at lightning speed
 
 ## My Current Favorites:
-- React
-- AWS
+- React.js
+- AWS: Amplify, AppSync, DynamoDB, S3
 - Expo
 - Next.js
 - Nativebase
