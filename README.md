@@ -4,6 +4,7 @@
 - planning the project; really breaking things down into the modular pieces and step-by-steps
 - diving into details and learning the "best" ways to solve problems
 - wowing the stakeholders by bringing the project to life at lightning speed
+- collaborating with UX/UI designers to bring awesome user interfaces to life
 
 ## My Current Favorites:
 - React.js
